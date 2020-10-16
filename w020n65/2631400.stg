@@ -1,6 +1,6 @@
 OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -19.5798717 65.7388381 1 184
 OBJECT_SHARED Models/Airport/localizer.xml -19.579012 65.741333 1 81
-OBJECT_SHARED Models/Transport/bus_bi.xml -19.5790721 65.7433124 1 10.1
+OBJECT_SHARED Models/Transport/bus_bi.xml -19.5790721 65.7433124 0.98 10.1
 OBJECT_SHARED Models/Boundaries/Fence_80.xml -19.5807712 65.7393846 1 2.1
 OBJECT_SHARED Models/Airport/LFPZ1b.xml -19.5802746 65.7388766 1 272
 OBJECT_SHARED Models/Aircraft/SAAB340_services.xml -19.5799482 65.7397863 1 312
@@ -10,14 +10,14 @@ OBJECT_SHARED Models/Transport/motorhome.ac -19.5805377 65.7431804 1 280
 OBJECT_SHARED Models/Airport/Vehicle/ELW_Sprinter_215.ac -19.5806094 65.7392914 1 268
 OBJECT_SHARED Models/Aircraft/Cessna172_blue.xml -19.5800512 65.7390643 1 0
 OBJECT_SHARED Models/Aircraft/Cessna172_green.xml -19.5798123 65.7391484 1 0
-OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml -19.5916054 65.7425564 1 0
-OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml -19.5878684 65.7428097 1 0
-OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml -19.5848487 65.7430059 1 0
-OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml -19.5816937 65.7431836 1 0
-OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml -19.5799976 65.7432815 1 0
-OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml -19.5772946 65.7434413 1 0
-OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml -19.5736792 65.7436524 1 0
-OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml -19.5684143 65.7441891 0.99 0
+OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml -19.5916054 65.7425564 0.99 0
+OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml -19.5878684 65.7428097 0.97 0
+OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml -19.5848487 65.7430059 0.96 0
+OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml -19.5816937 65.7431836 0.97 0
+OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml -19.5799976 65.7432815 0.97 0
+OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml -19.5772946 65.7434413 0.97 0
+OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml -19.5736792 65.7436524 0.98 0
+OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml -19.5684143 65.7441891 0.96 0
 OBJECT_SHARED Models/Airport/Hangar_18_14.ac -19.580712 65.7397371 1 88
 # dsf2stg
 # do not edit below this line

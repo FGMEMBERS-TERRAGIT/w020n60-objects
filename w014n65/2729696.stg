@@ -8,3 +8,5 @@ OBJECT_SHARED Models/StreetFurniture/trash-container.ac -13.81600 65.51387 19.77
 OBJECT_SHARED Models/lib/cars2.ac -13.81656 65.51360 19.79 187.43
 OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -13.81644 65.51322 19.70 144.61
 # END dsf2stg
+OBJECT_STATIC Glettinganes_Lighthouse.xml -13.6079684 65.5104814 0 56
+OBJECT_STATIC Kogur_Lighthouse.xml -13.8491361 65.5880071 7.15 240

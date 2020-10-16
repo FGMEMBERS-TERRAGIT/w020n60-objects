@@ -5,3 +5,4 @@ OBJECT_STATIC Selnes_Lighthouse.xml -14.0059849 64.7860486 0 124
 OBJECT_SHARED Models/Misc/picnic_table.ac -14.03672 64.79014 1.35 93.15
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -14.03689 64.79010 1.35 59.45
 # END dsf2stg
+OBJECT_STATIC Selnes_Lighthouse.xml -14.0059849 64.7860486 1 124
