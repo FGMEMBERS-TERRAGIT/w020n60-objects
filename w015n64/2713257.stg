@@ -5,6 +5,6 @@ OBJECT_STATIC Aeoarsteinn_Lighthouse.xml -14.262951 64.6630364 0 64
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Transport/hatchback_red.ac -14.27917 64.64600 2.08 87.04
+OBJECT_SHARED Models/Transport/van_red.ac -14.27917 64.64600 0.00 87.04
 # END dsf2stg
 OBJECT_STATIC Aeoarsteinn_Lighthouse.xml -14.262951 64.6630364 0.74 64
